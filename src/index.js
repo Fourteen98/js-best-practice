@@ -60,3 +60,8 @@ clearCompleted.addEventListener('click', () => {
   status.clearTaskCompleted();
   task.generateTodo();
 });
+
+// get onchange event for input and console log it
+// inputTodo.onchange = () => {
+//   console.log(inputTodo.value);
+// }
